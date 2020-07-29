@@ -1,11 +1,11 @@
 # Site settings
 author: Cailin Kless
-title: 
+title: Superhighway Hitchhiker
 header-img: img/home-bg.png
 email: cailin.nysff@gmail.com
 copyright_name: Cailin Kless
 description: > # this means to ignore newlines until "baseurl:"
-  
+  tracking my journeys in the world of programming & web development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: ShesOneKlessAct
 github_username:  cailinkless
