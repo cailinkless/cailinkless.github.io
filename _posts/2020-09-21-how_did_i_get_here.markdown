@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How did I get here?"
-date:       2020-09-22 02:50:30 +0000
+date:       2020-09-21 22:50:30 -0400
 permalink:  how_did_i_get_here
 ---
 
@@ -24,7 +24,7 @@ I didn't immediately go full steam into learning more-- the gigs came back, and 
 
 ...which brings us back to this year. Almost overnight, every source of income I had-- at the moment, mostly organizing film festivals, teaching yoga, and modelling for art class-- disappeared, and with no clear return date in sight. It hit me pretty hard. I take a lot of pride in my work and my independence, and now here I was newly-30 and taking checks from my parents (until I finally caved and applied for unemployment).
 
-It was as good a time as any to get back to the keyboard. A *ahem* parental scholarship (Thanks, Mom!) allowed me to race through most of Skillcrush curriculum. The project kept me sane. I practiced building websites almost compulsively, some with no intent to ever publish to the web. My fiancee got very little quality time with me but never complained, happy to finally see me doing something other than cry and sleep for the first time in weeks. I began to see a potential career future emerge, one that was quarantine-proof and that I actually loved.
+It was as good a time as any to get back to the keyboard. A... *(ahem)* ...parental scholarship (Thanks, Mom!) allowed me to race through most of Skillcrush curriculum. The project kept me sane. I practiced building websites almost compulsively, some with no intent to ever publish to the web. My fiancee got very little quality time with me but never complained, happy to finally see me doing something other than cry and sleep for the first time in weeks. I began to see a potential career future emerge, one that was quarantine-proof and that I actually loved.
 
 All that was left was to figure out what to do next.
 
