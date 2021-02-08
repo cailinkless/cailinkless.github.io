@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "All The Little Things: withRouter"
-date:       2021-02-08 02:23:45 +0000
+title:      "It's The Little Things: withRouter"
+date:       2021-02-07 21:23:46 -0500
 permalink:  all_the_little_things_withrouter
 ---
 
